@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ariel",
+        "age": 3,
+        "option": 1
+    },
+    {
+        "name": "Belle",
+        "age": 4,
+        "option": 2
+    },
+    {
+        "name": "Cinderella",
+        "age": 2,
+        "option": 3
+    }
+]
